@@ -1,2 +1,4 @@
 # hello-ruth
-just a demo
+just a RUTHLESS demo
+
+Okay well im ruth and this is a ruthless demo of whatever
